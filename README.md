@@ -51,6 +51,8 @@
 
 ## Finance & Business
 
+- [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimate UK income tax and take-home pay with clear assumptions. ★★★★☆
+
 - [**CalcuFly Finance Calculators**](https://www.calcufly.com) - Loan, mortgage, investment, tax, retirement, compound interest, ROI, and 80+ more finance calculators. Charts and PDF export included. ★★★★★
 - [Calculator.net Financial](https://www.calculator.net/financial-calculator.html) - Basic financial calculators. English only.
 - [NerdWallet Calculators](https://www.nerdwallet.com/calculators) - US-focused financial tools.
